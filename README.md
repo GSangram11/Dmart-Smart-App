@@ -1,53 +1,16 @@
-# 🛒 Dmart Smart App
+# digital_smart_trolly_app
 
-A mobile application designed for modern supermarkets, enabling customers to scan items, view prices, and make secure contactless payments — all from their smartphones. Built using Flutter and powered by Firebase.
+A new Flutter project.
 
-## 📱 Project Overview
+## Getting Started
 
-The **Dmart Smart App** enhances the in-store shopping experience by allowing users to:
+This project is a starting point for a Flutter application.
 
-- Scan product barcodes using their phone camera
-- Instantly view product details and pricing
-- Add items to a virtual cart
-- Make secure, contactless payments
-- Track order history and digital receipts
+A few resources to get you started if this is your first Flutter project:
 
-This app minimizes queue time and improves shopping convenience through real-time updates and mobile-first interactions.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
----
-
-## 🔧 Features
-
-- 📷 Barcode/QR Code Scanner
-- 🛍️ Virtual Shopping Cart
-- 💳 Secure Contactless Payment Gateway
-- 🔐 Firebase Authentication
-- ☁️ Real-time Data Sync with Firebase
-- 📊 Purchase History & Receipts
-- 🌐 Clean and responsive UI built with Flutter
-
----
-
-## 🧰 Technologies Used
-
-- **Frontend:** Flutter (Dart)
-- **Backend & Database:** Firebase (Cloud Firestore, Firebase Auth, Firebase Storage)
-
----
-
-## 🚀 Installation & Setup
-
-### Prerequisites
-
-- Flutter SDK installed: [Flutter Setup Guide](https://docs.flutter.dev/get-started/install)
-- Android Studio or Visual Studio Code
-- Firebase Project (with Firestore, Auth, etc.)
-
-### Steps
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/dmart-smart-app.git
-   cd dmart-smart-app
-# Dmart-Smart-App
-Designed a mobile application for a supermarket using Flutter for the frontend and Firebase for real-time data and authentication. Use: Allows customers to scan items in-store, view prices, and make secure contactless payments, enhancing shopping efficiency. Technologies: Flutter (Frontend), Firebase (Backend &amp; Database)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
